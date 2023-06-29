@@ -1,6 +1,12 @@
+<h1 align="center">Hey, I'm Matt! 👋</h1> 
 <div id="header" align="center">
-  ### Hey, I'm Matt! 👋
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+<div id="badges" >
+  <a href="https://www.linkedin.com/in/matt-mcburnett/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wellfound.com/u/matt-mcburnett"><p>My WellFound Profile</p></a>
+</div>
 </div>
 <!--
 **mattmcburnett/mattmcburnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
