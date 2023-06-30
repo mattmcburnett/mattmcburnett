@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-<div>
+<div> 
   <h2>About Me:</h2>
   <p>I'm a software engineer who's passionate about equity, creative problem solving, and building interesting things. I thrive in fast-paced and challenging environments and enjoy overcoming complex challenges. I create dynamic web applications using React / Redux, JavaScript, Node.js, Express, Python, Flask, SQLAlchemy, PostgreSQL, HTML5, and CSS.
 
