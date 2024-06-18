@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/matt-mcburnett/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://mattmcburnett.github.io/"><p>Portfolio</p></a>  
     <a href="https://wellfound.com/u/matt-mcburnett"><p>My WellFound Profile</p></a>
   </div> 
 </div>   
