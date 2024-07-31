@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey, I'm Matt! 👋</h1> 
-<div id="header" align="center"> 
+<div id="header" align="center">  
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
   <div id="badges" >
     <a href="https://www.linkedin.com/in/matt-mcburnett/">
