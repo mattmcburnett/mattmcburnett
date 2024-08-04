@@ -11,7 +11,7 @@
     <a href="https://mattmcburnett.github.io/"><p>Portfolio</p></a>   
     <a href="https://wellfound.com/u/matt-mcburnett"><p>My WellFound Profile</p></a>
   </div> 
-</div>   
+</div>  
 <div>          
                 
   <h2>Languages and Tools:</h2>
